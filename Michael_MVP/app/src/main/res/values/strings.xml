@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Michael_MVP</string>
+    <string name="save">存</string>
+    <string name="load">读</string>
+    <string name="id">ID:</string>
+    <string name="firstname">UserName:</string>
+    <string name="lastname">Comment:</string>
+</resources>
